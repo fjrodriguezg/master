@@ -1,2 +1,2 @@
 # master
-My first repository on GitHub
+Repository for examples
